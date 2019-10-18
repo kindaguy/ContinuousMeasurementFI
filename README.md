@@ -6,6 +6,7 @@ When the operators get large, a parallelization of the linear algebra operations
 
 Here we provide a GPU implementation of the Continuous-MeasurementFI-dicke algorithm.
 
+Keywork: CuArrays.
 
 ## Installation
 
