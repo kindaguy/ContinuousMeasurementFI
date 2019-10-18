@@ -1,4 +1,11 @@
-# ContinuousMeasurementFI
+# ContinuousMeasurementFI-GPU
+
+## AIM
+
+When the operators get large, a parallelization of the linear algebra operations over kilo-cores devices, in place of the parallelization over the number of trajectories, may lead to substantial advantage.
+
+Here we provide a GPU implementation of the Continuous-MeasurementFI-dicke algorithm.
+
 
 ## Installation
 
